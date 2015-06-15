@@ -1,0 +1,213 @@
+﻿<Page
+    x:Class="NativeWindows8PhoneApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NativeWindows8PhoneApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.07*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="0.03*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="0.03*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="0.03*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="0.03*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="0.03*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="0.03*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width=".05*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width=".05*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="3" Grid.Column="1" Text="WEATHER FORECAST" FontSize="24" />
+        <StackPanel Grid.Row="5" Grid.Column="1">
+            <TextBlock Text="LATITUDE: " FontSize="18" />
+            <TextBlock Text="" Name="LatitudeText" FontSize="18" />
+        </StackPanel>
+        <StackPanel Grid.Row="7" Grid.Column="1">
+            <TextBlock Text="LONGITUDE: " FontSize="18" />
+            <TextBlock Text="" Name="LongitudeText" FontSize="18" />
+        </StackPanel>
+        
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="9" Grid.Column="1">
+            <Grid x:Name="ContentPanel" >
+                <Pivot>
+                    <!--Pivot item one-->
+                    <PivotItem Header="Current">
+                        <Grid x:Name="ContentPanelCurrent">
+                            <ListView x:Name="lstboxCurrent">
+                                <ListView.ItemContainerTransitions>
+                                    <TransitionCollection>
+                                        <EntranceThemeTransition />
+                                    </TransitionCollection>
+                                </ListView.ItemContainerTransitions>
+                                <ListView.ItemTemplate >
+                                    <DataTemplate>
+                                        <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="5"/>
+                                                <RowDefinition Height="*"/>
+                                                <RowDefinition Height="5"/>
+                                            </Grid.RowDefinitions>
+
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="Auto"/>
+                                            </Grid.ColumnDefinitions>
+
+                                            <Image Grid.Column="0" Grid.Row="1" Height="100" Width="100" Source="{Binding PictureUrl}" ></Image>
+
+                                            <Grid Grid.Column="1" Grid.Row="1" Margin="10,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Stretch">
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition Height="Auto"/>
+                                                    <RowDefinition Height="Auto"/>
+                                                    <RowDefinition Height="Auto"/>
+                                                </Grid.RowDefinitions>
+                                                <TextBlock Grid.Row="0" Text="{Binding Summary}" FontSize="24" TextWrapping="Wrap" />
+                                                <TextBlock Grid.Row="1" Text="{Binding TimeStamp}" FontSize="18" TextWrapping="Wrap"/>
+
+                                                <Grid Grid.Row="2" HorizontalAlignment="Stretch">
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <TextBlock Text="Temperature:" FontSize="18"/>
+                                                    <TextBlock Grid.Column="1" Margin="10,0,0,0" TextWrapping="Wrap" Text="{Binding Temperature}" FontSize="18"/>
+                                                    <TextBlock Grid.Column="2" Text=" F" FontSize="18"/>
+                                                </Grid>
+                                            </Grid>
+
+                                        </Grid>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </Grid>
+                    </PivotItem>
+
+                    <!--Pivot item two-->
+                    <PivotItem Header="Daily">
+                        <Grid x:Name="ContentPanelDaily">
+                            <ListView x:Name="lstboxDaily">
+                                <ListView.ItemContainerTransitions>
+                                    <TransitionCollection>
+                                        <EntranceThemeTransition />
+                                    </TransitionCollection>
+                                </ListView.ItemContainerTransitions>
+                                <ListView.ItemTemplate >
+                                    <DataTemplate>
+                                        <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="5"/>
+                                                <RowDefinition Height="*"/>
+                                                <RowDefinition Height="5"/>
+                                            </Grid.RowDefinitions>
+
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="Auto"/>
+                                            </Grid.ColumnDefinitions>
+
+                                            <Image Grid.Column="0" Grid.Row="1" Height="100" Width="100" Source="{Binding PictureUrl}" ></Image>
+
+                                            <Grid Grid.Column="1" Grid.Row="1" Margin="10,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Stretch">
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition Height="Auto"/>
+                                                    <RowDefinition Height="Auto"/>
+                                                    <RowDefinition Height="Auto"/>
+                                                </Grid.RowDefinitions>
+                                                <TextBlock Grid.Row="0" Text="{Binding Summary}" FontSize="24" TextWrapping="Wrap"/>
+                                                <TextBlock Grid.Row="1" Text="{Binding TimeStamp}" FontSize="18" TextWrapping="Wrap"/>
+
+                                                <Grid Grid.Row="2" HorizontalAlignment="Stretch">
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <TextBlock Text="Temperature:" FontSize="18"/>
+                                                    <TextBlock Grid.Column="1" Margin="10,0,0,0" TextWrapping="Wrap" Text="{Binding Temperature}" FontSize="18"/>
+                                                    <TextBlock Grid.Column="2" Text=" F" FontSize="18"/>
+                                                </Grid>
+                                            </Grid>
+
+                                        </Grid>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </Grid>
+                    </PivotItem>
+
+                    <!--Pivot item three-->
+                    <PivotItem Header="Hourly">
+                        <Grid x:Name="ContentPanelHourly">
+                            <ListView x:Name="lstboxHourly">
+                                <ListView.ItemContainerTransitions>
+                                    <TransitionCollection>
+                                        <EntranceThemeTransition />
+                                    </TransitionCollection>
+                                </ListView.ItemContainerTransitions>
+                                <ListView.ItemTemplate >
+                                    <DataTemplate>
+                                        <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="5"/>
+                                                <RowDefinition Height="*"/>
+                                                <RowDefinition Height="5"/>
+                                            </Grid.RowDefinitions>
+
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="Auto"/>
+                                            </Grid.ColumnDefinitions>
+
+                                            <Image Grid.Column="0" Grid.Row="1" Height="100" Width="100" Source="{Binding PictureUrl}" ></Image>
+
+                                            <Grid Grid.Column="1" Grid.Row="1" Margin="10,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Stretch">
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition Height="Auto"/>
+                                                    <RowDefinition Height="Auto"/>
+                                                    <RowDefinition Height="Auto"/>
+                                                </Grid.RowDefinitions>
+                                                <TextBlock Grid.Row="0" Text="{Binding Summary}" FontSize="24" TextWrapping="Wrap"/>
+                                                <TextBlock Grid.Row="1" Text="{Binding TimeStamp}" FontSize="18" TextWrapping="Wrap"/>
+
+                                                <Grid Grid.Row="2" HorizontalAlignment="Stretch">
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                        <ColumnDefinition Width="Auto"/>
+                                                        <ColumnDefinition Width="*"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <TextBlock Text="Temperature:" FontSize="18"/>
+                                                    <TextBlock Grid.Column="1" Margin="10,0,0,0" TextWrapping="Wrap" Text="{Binding Temperature}" FontSize="18"/>
+                                                    <TextBlock Grid.Column="2" Text=" F" FontSize="18"/>
+                                                </Grid>
+                                            </Grid>
+
+                                        </Grid>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </Grid>
+                    </PivotItem>
+                </Pivot>
+                <ProgressRing x:Name="myProgressRing" IsActive="True" Height="90" Width="90" />
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</Page>
+

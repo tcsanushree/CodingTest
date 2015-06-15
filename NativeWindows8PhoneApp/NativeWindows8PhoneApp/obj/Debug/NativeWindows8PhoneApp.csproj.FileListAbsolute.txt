@@ -1,0 +1,105 @@
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\App.xbf
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\MainPage.xbf
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\NativeWindows8PhoneApp.xr.xml
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\NativeWindows8PhoneApp.exe
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\NativeWindows8PhoneApp.pdb
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\resources.pri
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\AppxManifest.xml
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\NativeWindows8PhoneApp.build.appxrecipe
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\App.g.i.cs
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\App.g.cs
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MainPage.g.i.cs
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MainPage.g.cs
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\App.xaml
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MainPage.xaml
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\App.xbf
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MainPage.xbf
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\NativeWindows8PhoneApp.exe
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\NativeWindows8PhoneApp.pdb
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\priconfig.xml
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\layout.resfiles
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\resources.resfiles
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\pri.resfiles
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\qualifiers.txt
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\NativeWindows8PhoneApp.csprojResolveAssemblyReference.cache
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\367480\Desktop\POC\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\NativeWindows8PhoneApp.csproj.GenerateResource.Cache
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\App.xbf
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\MainPage.xbf
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\NativeWindows8PhoneApp.xr.xml
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\NativeWindows8PhoneApp.exe
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\NativeWindows8PhoneApp.pdb
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\resources.pri
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\AppxManifest.xml
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\NativeWindows8PhoneApp.build.appxrecipe
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\NativeWindows8PhoneApp.csprojResolveAssemblyReference.cache
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\App.g.i.cs
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\App.g.cs
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MainPage.g.i.cs
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MainPage.g.cs
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\App.xaml
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MainPage.xaml
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\App.xbf
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MainPage.xbf
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\NativeWindows8PhoneApp.exe
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\NativeWindows8PhoneApp.pdb
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\NativeWindows8PhoneApp.csproj.GenerateResource.Cache
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\priconfig.xml
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\layout.resfiles
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\resources.resfiles
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\pri.resfiles
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\qualifiers.txt
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\399056\Desktop\Anushree\NativeWindows8PhoneApp (2)\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\App.xbf
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\MainPage.xbf
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\NativeWindows8PhoneApp.xr.xml
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\NativeWindows8PhoneApp.exe
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\NativeWindows8PhoneApp.pdb
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\resources.pri
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\AppxManifest.xml
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\NativeWindows8PhoneApp.build.appxrecipe
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\App.g.i.cs
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\App.g.cs
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MainPage.g.i.cs
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MainPage.g.cs
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\App.xaml
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MainPage.xaml
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\App.xbf
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MainPage.xbf
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\NativeWindows8PhoneApp.exe
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\NativeWindows8PhoneApp.pdb
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\NativeWindows8PhoneApp.csproj.GenerateResource.Cache
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\priconfig.xml
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\layout.resfiles
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\resources.resfiles
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\pri.resfiles
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\qualifiers.txt
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Debug\NativeWindows8PhoneApp.csprojResolveAssemblyReference.cache

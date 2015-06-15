@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>01HW813402</Machine>
+    <WindowsUser>367480</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9b38f990-4da8-4599-a30d-342b223538fb</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Release\NativeWindows8PhoneApp.exe">
+      <PackagePath>NativeWindows8PhoneApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\Lib\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\Assets\cloudy.jpg">
+      <PackagePath>Assets\cloudy.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\Assets\fog.jpg">
+      <PackagePath>Assets\fog.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\Assets\partly cloudy.jpg">
+      <PackagePath>Assets\partly cloudy.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\Assets\rain.jpg">
+      <PackagePath>Assets\rain.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\Assets\snow.jpg">
+      <PackagePath>Assets\snow.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\Assets\sunny.jpg">
+      <PackagePath>Assets\sunny.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\Assets\thunderstorm.jpg">
+      <PackagePath>Assets\thunderstorm.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Release\NativeWindows8PhoneApp.xr.xml">
+      <PackagePath>NativeWindows8PhoneApp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\367480\Desktop\latest_poc\NativeWindows8PhoneApp\NativeWindows8PhoneApp\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
